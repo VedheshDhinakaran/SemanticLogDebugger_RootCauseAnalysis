@@ -1,0 +1,32 @@
+{
+    "blk_6400082566804273401": {
+        "detected_errors": [
+            "Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>"
+        ],
+        "error_ids": [
+            "12"
+        ],
+        "root_cause_id": "4",
+        "root_cause_template": "BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>",
+        "rca_score": 0.3,
+        "sequence": [
+            "4",
+            "12"
+        ]
+    },
+    "blk_8596624696139957935": {
+        "detected_errors": [
+            "Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>"
+        ],
+        "error_ids": [
+            "12"
+        ],
+        "root_cause_id": "4",
+        "root_cause_template": "BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>",
+        "rca_score": 0.0,
+        "sequence": [
+            "12",
+            "4"
+        ]
+    }
+}

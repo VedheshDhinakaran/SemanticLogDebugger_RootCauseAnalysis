@@ -1,0 +1,11 @@
+trace_id,clean_trace,root_cause,explanation
+blk_7128370237687728475,Add stored block,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,Analyze Trace: Add stored block -> Add saved block
+blk_3050920587428079149,Add stored block,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,Analyze Trace: Add stored block -> Add saved block
+blk_7888946331804732825,Add stored block,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,Analyze Trace: Add stored block -> Add saved block
+blk_2377150260128098806,Add stored block,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,Analyze Trace: Add stored block -> Add saved block
+blk_3587508140051953248,Receive block,Received block blk_<*> of size <*> from /<*>,-> Receive block -> Get block
+blk_5402003568334525940,Receive block,Received block blk_<*> of size <*> from /<*>,-> Receive block -> Get block
+blk_5792489080791696128,Receive block,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,-> Receive block -> Get block
+blk_1724757848743533110,Receive block,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,-> Receive block -> Get block
+blk_8015913224713045110,Add stored block,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,Analyze Trace: Add stored block -> Add saved block
+blk_-5623176793330377570,Receive block,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,-> Receive block -> Get block
